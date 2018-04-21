@@ -11,5 +11,6 @@ public class First {
 		System.out.println("Hello World!");
 		System.out.println("this is the first class file from github!");
 		System.out.println("github工程的第一个类文件!");
+		System.out.println("修改First文件!");
 	}
 }
